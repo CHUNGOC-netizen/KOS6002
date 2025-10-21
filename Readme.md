@@ -1,4 +1,6 @@
-# Make a github id and clone
+이것은 리드미입니다.
+dgdgkkkkk
+ Make a github id and clone
 
 # cmdstanpy install and setup
 - Run the commands in a cell in jupyter notebook.
